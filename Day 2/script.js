@@ -1,0 +1,1 @@
+alert("Hello guys, Welcome to day 2");
